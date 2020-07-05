@@ -1,24 +1,18 @@
-# Amazing Products
+# Entroopy
 
-Bulk SMS is a product of Amazing Products. From Bulk SMS you can instantly reach your customer with ease and convey your message and get their feedback.
+Platfom to find get information about various feilds and blogs where you can interact and share your version of opinion.
 
-Types of Messages:
-  - Promotional Messages
-  - Transactional Messages
+#Areas of information:- 
+  - Stock market
+  - Entertainment
+  - News
+  etc
 
 # Features!
 
-  - You can instantly send transactional Message to both DND and Non-DND Users
-  - You can send promotional Message to Non-DND Users only between 9am to 9pm
-  - You can send schedule promotional Message for a later date
-  - You can download your order Summary
-  - You can check delivery reports
-  - You can send MultiMedia Messages and so much more ....
-
-You can also:
-  - Import and save contacts from your phone, Google Contacts
-  - Drag and drop Excel file to import contacts
-  - Export documents (Contacts, Delivery Report, Balancesheet) to Excel and PDF
+  - You can do Blogging with your own account 
+  - you can share the information with other
+  - you can ask for information
 
 ### Tech
 
